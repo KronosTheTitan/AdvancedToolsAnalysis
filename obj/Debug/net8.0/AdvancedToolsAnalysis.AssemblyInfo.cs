@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvancedToolsAnalysis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6a9543de3e1caf363924deee5ed28288168b02b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvancedToolsAnalysis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvancedToolsAnalysis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

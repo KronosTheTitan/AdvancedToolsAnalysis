@@ -1,0 +1,8 @@
+Static results: 
+    Average Number of peaks: 740,8
+    Average Frames between peaks: 2,3585313174946005
+    Average Milliseconds per frame: 7,370921610959978
+Non Static results: 
+    Average Number of peaks: 713,8
+    Average Frames between peaks: 2,4880919024936956
+    Average Milliseconds per frame: 7,3167329101599705
