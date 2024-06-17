@@ -41,3 +41,4 @@ D:\05 School\AdvancedToolsAnalysis\obj\Debug\net8.0\refint\AdvancedToolsAnalysis
 D:\05 School\AdvancedToolsAnalysis\obj\Debug\net8.0\AdvancedToolsAnalysis.pdb
 D:\05 School\AdvancedToolsAnalysis\obj\Debug\net8.0\AdvancedToolsAnalysis.genruntimeconfig.cache
 D:\05 School\AdvancedToolsAnalysis\obj\Debug\net8.0\ref\AdvancedToolsAnalysis.dll
+F:\03 School\AdvancedToolsAnalysis\obj\Debug\net8.0\AdvancedToolsAnalysis.sourcelink.json

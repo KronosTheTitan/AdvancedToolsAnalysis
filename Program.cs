@@ -26,7 +26,7 @@ class Program
     private double _averagePeaksSeparationNoStatic;
 
     private const string DataAddress = "data.csv";
-    private const double PeakThreshold = 1.25;
+    private const double PeakThreshold = 1.5;
 
     private void Run()
     {
